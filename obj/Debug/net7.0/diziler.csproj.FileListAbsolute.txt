@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\Projeler\diziler\bin\Debug\net7.0\diziler.exe
+C:\Users\argeuser\Desktop\Projeler\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Users\argeuser\Desktop\Projeler\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Users\argeuser\Desktop\Projeler\diziler\bin\Debug\net7.0\diziler.dll
+C:\Users\argeuser\Desktop\Projeler\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.dll
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\Projeler\diziler\obj\Debug\net7.0\ref\diziler.dll
